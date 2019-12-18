@@ -1,11 +1,11 @@
 JSON editor jQuery plugin
 =========================
 
-A JSON editor component for you web apps/pages.
-[Blog post](http://www.daviddurman.com)
+A JSON editor forked from [DavidDurman/FlexiJsonEditor](https://github.com/DavidDurman/FlexiJsonEditor)
 
-[Live example](http://www.daviddurman.com/flexi-json-editor/jsoneditor.html)
-
+CHANGELOG
+============
+Use to preview json string.
 
 INSTALLATION
 ============
